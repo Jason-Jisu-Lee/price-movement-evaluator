@@ -1,0 +1,19 @@
+{
+  "name": "price-movement-evaluator",
+  "version": "1.0.0",
+  "description": "This application attempts to predict the price action of the SPY ETF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-Jisu-Lee/price-movement-evaluator.git"
+  },
+  "author": "Jason Jisu Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason-Jisu-Lee/price-movement-evaluator/issues"
+  },
+  "homepage": "https://github.com/Jason-Jisu-Lee/price-movement-evaluator#readme"
+}
